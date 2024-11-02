@@ -11,8 +11,8 @@ https://raw.githubusercontent.com/Fearwm/FearSubscription/main/V2rayNG.json
 https://raw.githubusercontent.com/Fearwm/FearSubscription/main/Hiddify.json
 ```
 
-# V2rayNG Sub QR Code 👇
-<img src="assets/v2rayng-qr.png" alt="V2rayNG" width="60"/>
+# V2rayNG QR Code 👇
+<img src="assets/hiddify-ng-qr.png" alt="V2rayNG" width="250"/>
 
-# Hiddify Sub QR Code 👇
-<img src="assets/hiddify-qr.png" alt="Hiddify" width="60"/>
+# Hiddify QR Code 👇
+<img src="assets/v2rayng-qr.png" alt="Hiddify" width="250"/>
