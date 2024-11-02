@@ -12,7 +12,7 @@ https://raw.githubusercontent.com/Fearwm/FearSubscription/main/Hiddify.json
 ```
 
 # V2rayNG QR Code 👇
-<img src="assets/hiddify-ng-qr.png" alt="V2rayNG" width="250"/>
+<img src="assets/v2rayng-qr.png" alt="V2rayNG" width="250"/>
 
 # Hiddify QR Code 👇
-<img src="assets/v2rayng-qr.png" alt="Hiddify" width="250"/>
+<img src="assets/hiddify-qr.png" alt="Hiddify" width="250"/>
