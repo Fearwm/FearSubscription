@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/Fearwm/FearSubscription/main/Hiddify.json
 <a href="https://t.me/maryv2ray">https://t.me/MarYv2raY</a>
 <img src="assets/telegram-qr.png" alt="Telelgram" width="250"/>
 
-## 📥 Direct Download
+## 📥 Download Hiddify
 
 <div align=left>
 <table>
