@@ -1,12 +1,12 @@
 # Fear Subscription
 V2rayNG Config & Hiddify Warp Subscription, Update Every <b>12</b> Hours!
 
-## <img src="assets/v2rayng.png" alt="V2rayNG" width="27"/> / <img src="assets/v2rayn.png" alt="V2rayNG" width="27"/>  V2rayNG Sub 👇🏻
+## <img src="assets/v2rayng.png" alt="V2rayNG" width="25"/> / <img src="assets/v2rayn.png" alt="V2rayNG" width="25"/>  V2rayNG Sub 👇🏻
 ```
 https://raw.githubusercontent.com/Fearwm/FearSubscription/main/V2rayNG.json
 ```
 
-## <img src="assets/hiddify.png" alt="Hiddify" width="25"/> Hiddify Sub 👇🏻
+## <img src="assets/hiddify.png" alt="Hiddify" width="30"/> Hiddify Sub 👇🏻
 ```
 https://raw.githubusercontent.com/Fearwm/FearSubscription/main/Hiddify.json
 ```
