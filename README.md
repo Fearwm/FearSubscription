@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/Fearwm/FearSubscription/main/Hiddify.json
 ## Hiddify Sub QR
 <img src="assets/hiddify-qr.png" alt="Hiddify" width="250"/>
 
-## <img src="assets/Telegram.png" alt="Telegram" width="25"/>  Telegram Channel
+## <img src="assets/Telegram.png" alt="Telegram" width="22"/>  Telegram Channel
 🔗 <b><a href="https://t.me/maryv2ray">https://t.me/MarYV2raY</a></b>
 
 <img src="assets/telegram-qr.png" alt="Telelgram" width="250"/>
