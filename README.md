@@ -1,23 +1,23 @@
 # Fear Subscription
 V2rayNG Config & Hiddify Warp Subscription, Update Every <b>12</b> Hours!
 
-## <img src="assets/v2rayng.png" alt="V2rayNG" width="23"/> / <img src="assets/v2rayn.png" alt="V2rayNG" width="23"/> V2rayNG Config Sub 👇🏻
+## <img src="assets/v2rayng.png" alt="V2rayNG" width="23"/> / <img src="assets/v2rayn.png" alt="V2rayNG" width="23"/> V2rayNG Config Sub
 ```
 https://raw.githubusercontent.com/Fearwm/FearSubscription/main/V2rayNG.json
 ```
 
-## <img src="assets/hiddify.png" alt="Hiddify" width="24"/> Hiddify Warp Sub 👇🏻
+## <img src="assets/hiddify.png" alt="Hiddify" width="24"/> Hiddify Warp Sub
 ```
 https://raw.githubusercontent.com/Fearwm/FearSubscription/main/Hiddify.json
 ```
 
-## V2rayNG Sub QR 👇🏻
+## V2rayNG Sub QR
 <img src="assets/v2rayng-qr.png" alt="V2rayNG" width="250"/>
 
-## Hiddify Sub QR 👇🏻
+## Hiddify Sub QR
 <img src="assets/hiddify-qr.png" alt="Hiddify" width="250"/>
 
-## <img src="assets/Telegram.png" alt="Telegram" width="25"/>  Telegram Channel 👇🏻
+## <img src="assets/Telegram.png" alt="Telegram" width="25"/>  Telegram Channel
 🔗 <b><a href="https://t.me/maryv2ray">https://t.me/MarYV2raY</a></b>
 
 <img src="assets/telegram-qr.png" alt="Telelgram" width="250"/>
