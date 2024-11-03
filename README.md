@@ -1,5 +1,5 @@
 # Fear Subscription
-V2rayNG Config & Hiddify Warp Subscription, Update Every 12 Hours!
+V2rayNG Config & Hiddify Warp Subscription, Update Every <b>12</b> Hours!
 
 ## <img src="assets/v2rayn.png" alt="V2rayNG" width="27"/>  V2rayNG Sub 👇🏻
 ```
