@@ -11,10 +11,10 @@ https://raw.githubusercontent.com/Fearwm/FearSubscription/main/V2rayNG.json
 https://raw.githubusercontent.com/Fearwm/FearSubscription/main/Hiddify.json
 ```
 
-## V2rayNG Sub QR 👇
+## V2rayNG Sub QR 👇🏻
 <img src="assets/v2rayng-qr.png" alt="V2rayNG" width="250"/>
 
-## Hiddify Sub QR 👇
+## Hiddify Sub QR 👇🏻
 <img src="assets/hiddify-qr.png" alt="Hiddify" width="250"/>
 
 ## <img src="assets/Telegram.png" alt="Telegram" width="25"/>  Telegram Channel 👇🏻
@@ -22,7 +22,7 @@ https://raw.githubusercontent.com/Fearwm/FearSubscription/main/Hiddify.json
 
 <img src="assets/telegram-qr.png" alt="Telelgram" width="250"/>
 
-## <img src="assets/hiddify.png" alt="Hiddify" width="35"/> Download Hiddify
+## <img src="assets/hiddify.png" alt="Hiddify" width="35"/> Download Hiddify 👇🏻
 
 <div align=left>
 <table>
