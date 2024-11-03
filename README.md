@@ -22,7 +22,7 @@ https://raw.githubusercontent.com/Fearwm/FearSubscription/main/Hiddify.json
 
 <img src="assets/telegram-qr.png" alt="Telelgram" width="250"/>
 
-## <img src="assets/hiddify.png" alt="Hiddify" width="35"/> Download Hiddify 👇🏻
+## <img src="assets/hiddify.png" alt="Hiddify" width="24"/> Download Hiddify
 
 <div align=left>
 <table>
