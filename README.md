@@ -19,7 +19,8 @@ https://raw.githubusercontent.com/Fearwm/FearSubscription/main/Hiddify.json
 
 ## <img src="assets/Telegram.png" alt="Telegram" width="22"/>  Telegram Channel
 
-<img src="assets/telchannel.jpg" href="https://t.me/maryv2ray" width="150"/>
+<a href="https://t.me/maryv2ray">
+<img src="assets/telchannel.jpg" width="150"/>
 
 <img src="assets/telegram-qr.png" alt="Telelgram" width="250"/>
 
