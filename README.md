@@ -22,6 +22,13 @@ https://raw.githubusercontent.com/Fearwm/FearSubscription/main/Hiddify.json
 
 <img src="assets/telegram-qr.png" alt="Telelgram" width="250"/>
 
+## <img src="assets/v2rayng.png" alt="V2rayNG" width="23"/> Download V2rayNG
+Download From Google Play 👇🏻
+<img src="assets/v2rayng.png" alt="V2rayNG" width="23"/>
+
+Download From Github 👇🏻
+[![GitHub Releases](https://img.shields.io/github/downloads/2dust/v2rayNG/latest/total?logo=github)](https://github.com/2dust/v2rayNG/releases)
+
 ## <img src="assets/hiddify.png" alt="Hiddify" width="24"/> Download Hiddify
 
 <div align=left>
