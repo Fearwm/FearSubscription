@@ -24,7 +24,9 @@ https://raw.githubusercontent.com/Fearwm/FearSubscription/main/Hiddify.json
 
 ## <img src="assets/v2rayng.png" alt="V2rayNG" width="23"/> Download V2rayNG
 Download From Google Play 👇🏻
-<img src="assets/v2rayng.png" alt="V2rayNG" width="23"/>
+<a href="https://play.google.com/store/apps/details?id=com.v2ray.ang">
+<img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="165" height="64" />
+</a>
 
 Download From Github 👇🏻
 [![GitHub Releases](https://img.shields.io/github/downloads/2dust/v2rayNG/latest/total?logo=github)](https://github.com/2dust/v2rayNG/releases)
