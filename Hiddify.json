@@ -1,1 +1,1 @@
-warp://188.114.97.32:4177?ifp=10-20&ifps=20-60&ifpd=5-10&ifpm=m4#Warp-IR&&detour=warp://162.159.195.210:4198?ifp=10-20&ifps=20-60&ifpd=5-10#Warp-IN-Warp
+warp://162.159.192.139:1014?ifp=10-20&ifps=20-60&ifpd=5-10&ifpm=m4#Warp-IR&&detour=warp://162.159.192.180:8742?ifp=10-20&ifps=20-60&ifpd=5-10#Warp-IN-Warp
