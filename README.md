@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/Fearwm/FearSubscription/main/Hiddify.json
 ## <img src="assets/Telegram.png" alt="Telegram" width="22"/>  Telegram Channel
 🔗 <b><a href="https://t.me/maryv2ray">https://t.me/MarYV2raY</a></b>
 
-[![Telegram Channel](https://img.shields.io/endpoint?label=Channel&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fhiddify&color=blue)](https://t.me/maryv2ray)
+<img src="assets/telchannel.jpg" href="https://t.me/maryv2ray" alt="Tel" width="50"/>
 
 <img src="assets/telegram-qr.png" alt="Telelgram" width="250"/>
 
