@@ -11,7 +11,7 @@ https://raw.githubusercontent.com/Fearwm/FearSubscription/main/V2rayNG.json
 https://raw.githubusercontent.com/Fearwm/FearSubscription/main/Hiddify.json
 ```
 
-## <img src="assets/outline.png" alt="Outline" width="23"/> Outline SSH Key
+## <img src="assets/outline.png" alt="Outline" width="23"/> Outline Access Key
 ```
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#Fear-Outline-SSH
 ```
