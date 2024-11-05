@@ -11,6 +11,11 @@ https://raw.githubusercontent.com/Fearwm/FearSubscription/main/V2rayNG.json
 https://raw.githubusercontent.com/Fearwm/FearSubscription/main/Hiddify.json
 ```
 
+## <img src="assets/outline.png" alt="Outline" width="23"/> Outline SSH Key
+```
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#Fear-Outline-SSH
+```
+
 ## <img src="assets/qrcode.png" alt="QR" width="20"/> V2rayNG Sub QR Code
 <img src="assets/v2rayng-qr.png" alt="V2rayNG" width="250"/>
 
