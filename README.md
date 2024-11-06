@@ -109,6 +109,19 @@ href="https://t.me/maryv2ray">
     </tbody>
 </table>
 
+## <img src="assets/signbox.png" alt="Signbox" width="24"/> Download Sign-Box
+📥 <b>Download From Google Play :</b>
+
+‌
+<a href="https://play.google.com/store/apps/details?id=io.nekohasekai.sfa">
+<img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="165" height="64" />
+</a>
+
+📥 <b>Download From Github :</b>
+
+‌
+[![GitHub Releases](https://img.shields.io/github/downloads/2dust/v2rayNG/latest/total?logo=github)](https://github.com/SagerNet/sing-box/releases)
+
 ## <img src="assets/outline.png" alt="Outline" width="23"/> Download Outline
 📥 <b>Download From Google Play :</b>
 
