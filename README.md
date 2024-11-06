@@ -11,9 +11,9 @@ https://raw.githubusercontent.com/Fearwm/FearSubscription/main/V2rayNG.json
 https://raw.githubusercontent.com/Fearwm/FearSubscription/main/Hiddify.json
 ```
 
-## <img src="assets/signbox.png" alt="Signbox" width="25"/> Sign-Box Sub URL
+## <img src="assets/signbox.png" alt="Signbox" width="24"/> Sign-Box Sub URL
 ```
-Soon...
+https://raw.githubusercontent.com/Fearwm/FearSubscription/main/Sign-Box.json
 ```
 
 ## <img src="assets/outline.png" alt="Outline" width="23"/> Outline Access Key
