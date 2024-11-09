@@ -18,7 +18,7 @@ https://raw.githubusercontent.com/Fearwm/FearSubscription/main/Sign-Box.json
 
 ## <img src="assets/outline.png" alt="Outline" width="23"/> Outline Access Key
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0R2dwQUp6VW1GampmM0R4UEdyZ0VH@51.158.252.130:443/?outline=1&prefix=%16%03%01%00%C2%A8%01%01#Fear-Outline-Key
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyanQ2WWJqRzh1QzhITVpoVkt2Nnll@51.158.252.130:443/?outline=1&prefix=%16%03%01%00%C2%A8%01%01#Fear-Outline-Key
 ```
 
 ## <img src="assets/qrcode.png" alt="QR" width="20"/> V2rayNG Sub QR Code
