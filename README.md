@@ -30,7 +30,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SWdRbm50d2lkNmF3UWtrUnNDYlFz@62.210.88.22:4
 ## <img src="assets/Telegram.png" alt="Telegram" width="22"/>  Telegram Channel
 
 <a
-href="https://t.me/maryv2ray">
+href="https://t.me/Fear_Config">
 <img src="assets/telchannel.png" width="250"/>
 </a>
 
