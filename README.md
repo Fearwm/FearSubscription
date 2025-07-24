@@ -1,5 +1,5 @@
 # Fear V2rayNG Subscription
-V2rayNG Config, Hiddify Warp Subscription & Outline Access Key, Update Every <b>24</b> Hours!
+V2rayNG Config, Hiddify Warp Subscription & Outline Access Key, Update Every <b>12</b> Hours!
 
 ## <img src="assets/v2rayng.png" alt="V2rayNG" width="23"/> / <img src="assets/v2rayn.png" alt="V2rayNG" width="23"/> V2rayNG Sub URL
 ```
